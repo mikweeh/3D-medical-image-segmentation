@@ -1,5 +1,3 @@
-(Udacity Nanodegree)
-
 # Project: Quantifying Hippocampus Volume from 3D medical images for Alzheimer's progression
 
 ## Background
